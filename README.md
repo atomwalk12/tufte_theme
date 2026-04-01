@@ -1,4 +1,4 @@
-# Installation instructions
+# Instructions
 
 ```bash
 pacman -S r pandoc
